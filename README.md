@@ -106,7 +106,7 @@ The dataset contains approximately **1,000 retail sales records** with customer,
 
 ```
 Dashboard/
-└── dashbord2.png
+└── ![Dashboard](Dashboard/dashboard2.png)
 ```
 
 ---
