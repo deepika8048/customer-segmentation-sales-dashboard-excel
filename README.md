@@ -170,7 +170,7 @@ Customer-Segmentation-Sales-Dashboard-Excel/
 Replace this image after creating your dashboard.
 
 
-![Dashboard](Dashboard/dashboard2.png)
+![Dashboard](dashboard.png)
 
 ---
 
