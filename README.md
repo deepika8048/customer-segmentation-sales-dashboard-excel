@@ -100,16 +100,6 @@ The dataset contains approximately **1,000 retail sales records** with customer,
 
 ---
 
-## 📷 Dashboard Preview
-
-> Add your dashboard screenshot here.
-
-```
-Dashboard/
-└── ![Dashboard](Dashboard/dashboard2.png)
-```
-
----
 
 ## 📁 Project Structure
 
