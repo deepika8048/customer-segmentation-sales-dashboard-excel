@@ -179,7 +179,8 @@ Customer-Segmentation-Sales-Dashboard-Excel/
 
 Replace this image after creating your dashboard.
 
-![Dashboard](Dashboard/dashboard.png)
+
+https://chatgpt.com/s/m_6a68c51731208191bc41a8f2cbddc537
 
 ---
 
