@@ -112,7 +112,8 @@ Dashboard/
 Example:
 
 ```markdown
-![Dashboard](Dashboard/dashboard.png)
+![Dashboard](Dashboard/dashbord2.png)
+
 ```
 
 ---
