@@ -106,14 +106,7 @@ The dataset contains approximately **1,000 retail sales records** with customer,
 
 ```
 Dashboard/
-└── dashboard.png
-```
-
-Example:
-
-```markdown
-![Dashboard](Dashboard/dashbord2.png)
-
+└── dashbord2.png
 ```
 
 ---
