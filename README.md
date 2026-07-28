@@ -168,9 +168,9 @@ Customer-Segmentation-Sales-Dashboard-Excel/
 ## 📸 Dashboard Screenshot
 
 Replace this image after creating your dashboard.
+Dashboard/dashboard.png
 
-
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard/dashboard.png)
 
 ---
 
